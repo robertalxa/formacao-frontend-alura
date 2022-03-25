@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "Curso 1 HTML e CSS Primeira pagina\\curso 1"
+		},
+		{
+			"path": "Curso 2 HTML e CSS Listas\\curso 2"
+		},
+		{
+			"path": "Curso 3 HTML e CSS Trabalhando com formulários e tabelas\\curso 3"
+		},
+		{
+			"path": "Curso 4 HTML e CSS Avançando com CSS\\curso 4"
+		},
+		{
+			"path": "Curso 5 acessibilidade WEB\\curso 5"
+		},
+		{
+			"path": "..\\..\\Treino\\teste"
+		},
+		{
+			"path": "Curso 6 Intro JS\\intro-js"
+		},
+		{
+			"path": "Tagged Templates"
+		},
+		{
+			"path": "Classes e Funções"
+		},
+		{
+			"path": "Curso 7 - POO Com JS\\poo js"
+		},
+		{
+			"path": "JS Interface e Herança OO"
+		},
+		{
+			"path": "Arquitetura CSS\\arquitetura-css"
+		},
+		{
+			"path": "..\\..\\Treino\\pessoal-landing"
+		},
+		{
+			"path": "Curso Flexbox - posicione elementos na tela\\curso-flexbox-pent"
+		},
+		{
+			"path": "Layouts Responsivos - Trabalhando com layouts mobile\\projeto-apeperia-layouts-mobile"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto-apeperia-layouts-mobile"
+	}
+}
