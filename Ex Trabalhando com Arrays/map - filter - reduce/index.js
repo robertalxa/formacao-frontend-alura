@@ -14,3 +14,29 @@ Exercícios propostos
 - O nome de cada empresa e de seu CEO.
 - O valor de todas as empresas somadas.
 */
+
+
+//#region -- Minhas soluções pessoais --
+
+//#region Ex 1
+
+//Com MAP (retorna os valores falsos, ou seja, além do que eu quero trás também as respostas falsas);
+console.log(empresas.map(reg => {return reg.anoDeCriacao > 2000 ? reg : null}));
+//Com FILTER (retorna somente valores verdadeiros);
+console.log(empresas.filter(reg => {return reg.anoDeCriacao > 2000 ? reg : null}));
+
+//#endregion
+
+//#region Ex2 
+
+console.log(empresas.map(empresa=> {
+    return `${empresa.nome} - ${empresa.CEO}`
+}));
+
+//#endregion
+
+//#region Ex3
+console.log(empresas.reduce((total, emp)=> {return total + emp.valorDeMercado}, 0));
+//#endregion
+
+//#endregion
