@@ -56,9 +56,12 @@
 		},
 		{
 			"path": "Curso Expressões Regulares\\expressoes-regulares"
+		},
+		{
+			"path": "JS Inteface na WEB - forms e html5\\validacao-doguito"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "alura midi"
+		"liveServer.settings.multiRootWorkspaceName": "validacao-doguito"
 	}
 }
