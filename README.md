@@ -3,7 +3,7 @@ Repositório destinado aos exrcícios práticos presentes na formação front-en
 
 Principais Conteúdos:
 
-![Arquitetura]("/Arquitetura CSS/arquitetura-css/ac-screenshot.png")
+![Arquitetura](/"Arquitetura CSS"/arquitetura-css/ac-screenshot.png)
 
 Arquitetura CSS
 
