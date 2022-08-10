@@ -4,16 +4,21 @@ Repositório destinado aos exrcícios práticos presentes na formação front-en
 Principais Conteúdos:
 
 - Arquitetura CSS
-![](Arquitetura CSS/arquitetura-css/ac-screenshot.png)
+
+![Arquitetura CSS](Arquitetura CSS/arquitetura-css/ac-screenshot.png)
 
 - CSS Grid - Alura Store
-![](Arquitetura CSS/arquitetura-css/as-screenshot.png)
+
+![Alura Store](Curso CSS Grid - Simplificando Layouts/as-screenshot.png)
 
 - CSS Flexbox - Alurinha
-![](Arquitetura CSS/arquitetura-css/al-screenshot.png)
+
+![Alurinha](Curso Flexbox - posicione elementos na tela/curso-flexbox-pent/al-screenshot.png)
 
 - JS para WEB - Alura Midi
-![](Arquitetura CSS/arquitetura-css/am-screenshot.png)
+
+![Alura Midi](Curso JavaScript para Web Crie páginas dinâmicas/alura midi/am-screenshot.png)
 
 - Layouts Responsivos - Apeperia
-![](Arquitetura CSS/arquitetura-css/ap-screenshot.png)
+
+![Apeperia](Layouts Responsivos - Trabalhando com layouts mobile/ap-screenshot.png)
