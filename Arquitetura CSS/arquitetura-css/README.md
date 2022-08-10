@@ -1,2 +1,4 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+Curso da Alura que aborda arquitetura de organização da estrutura do CSS.
+
+![](ac-screenshot.png)
