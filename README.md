@@ -1,4 +1,4 @@
-# formacao-frontend-alura
+# Formação FrontEnd Alura
 Repositório destinado aos exrcícios práticos presentes na formação front-end da Alura
 
 Principais Conteúdos:
